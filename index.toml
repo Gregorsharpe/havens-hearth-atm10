@@ -7898,7 +7898,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "0b0b8ec73c689824125ed9c568deff51b0adca52aee27e49a114b04ff3f73abe"
+hash = "dc7d78645027da5353f3fb4955361b8490b700dd8d169c152b7daaf1e5346352"
 metafile = true
 
 [[files]]
@@ -8368,7 +8368,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus-exporter.pw.toml"
-hash = "4033f9d39c46d85f9ba0dbef78a11d809af83cc1046c362b05aa5d04ea35b6a5"
+hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
 metafile = true
 
 [[files]]
@@ -8548,12 +8548,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "d5c45b295485d229b6b3a0419b41db0b88f768caec193e3da56c6ada4e51a333"
+hash = "8f3ed2770da875a54660318c0f8ce0174f29d455b8111e3e29f47ced5a770c67"
 metafile = true
 
 [[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "69ab82455928ed21d2a7a073498968decfb60fab913c220687bc1d2a3a451d7c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1841c043ca80b71981cb4db92fa7d15d6b741439b29ee2a4b91b348f0e0885ba"
 metafile = true
 
 [[files]]
@@ -8602,6 +8607,11 @@ hash = "664d516e8e5ef46fdc3db0c7e8a1839e36c27ffd419d9eb61d3c75170902303c"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1ee21309f9136cb6627d086d63bacf7801030fd912ba4fda85680272c15517ab"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
@@ -8609,6 +8619,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
+metafile = true
+
+[[files]]
+file = "mods/squaremap.pw.toml"
+hash = "58551ce5ea355c930c973a51c2cd12ae30fdf979db6523a808d54c7747134186"
 metafile = true
 
 [[files]]
@@ -8768,7 +8783,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanishmod.pw.toml"
-hash = "8a6150b942b90e0b641e761cabf808f3beccc44b9d693b60a4649d68f65aca40"
+hash = "b1eae056478d8dd62c1389278d9eb2edda14373393387d3f4efc130a6da59838"
 metafile = true
 
 [[files]]
