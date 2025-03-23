@@ -8991,20 +8991,20 @@ hash = "db4ba9188052b75c67fe536e5e7fc127499611abcb98b3542cf79a450fa13ece"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "3682bac94807f22f49585adb9d9c40c1f244dd9439ae328d89fef78010a1b8fa"
+hash = "c0c29b3de5363f9785a0ece25f6d3abe79924dca9b8528d374b800e0d26bfc2a"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
+hash = "e5e895083a31c84b5e053c2c276eff0c01e8d49513280838f208a1e89f1bc880"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "db468f148fd398ebc54ab6f1d5e16069dd58f90af49df62f247b40060fe51255"
+hash = "318736576c1e4ff9efa22b2e9b8b4373e8185c68d2aa24f26252b553af511ad5"
 metafile = true
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
-hash = "632ba0bfd4209ba7423e63b037726020a295b71846df772ff67727e82ada9bab"
+hash = "ca3c7fe417b37fc7946a6f1648c02198ea5e51ac1928f7672526465c9c442e17"
 metafile = true
