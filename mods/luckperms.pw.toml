@@ -1,13 +1,12 @@
 name = "LuckPerms"
-filename = "LuckPerms-NeoForge-5.4.140.jar"
+filename = "LuckPerms-NeoForge-5.4.157.jar"
 side = "server"
 
-[download]
-hash-format = "sha1"
-hash = "bd368d3254d81120a8c287f79c0467478ad2d73e"
-mode = "metadata:curseforge"
 
-[update]
-[update.curseforge]
-file-id = 5654231
-project-id = 431733
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/LuckPerms-NeoForge-5.4.157.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e7bb5c9ca5f92aca9abec1d1fa66bdd4a4512813bfe95fe3afb17b90e79037fe"
