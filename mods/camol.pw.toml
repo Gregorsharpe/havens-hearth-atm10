@@ -1,0 +1,13 @@
+name = "Camol"
+filename = "camol-1.21.1-0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cbd7fd8056fd909f8bcad9ace96814efc6bcf29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6287853
+project-id = 1214396

@@ -1,0 +1,13 @@
+name = "Modular Machinery Reborn Ars Nouveau"
+filename = "modular_machinery_reborn_ars-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a660e83b7c4150838377c47823b367712a764b25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6073430
+project-id = 1132269

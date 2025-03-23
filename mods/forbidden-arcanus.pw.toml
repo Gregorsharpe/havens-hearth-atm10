@@ -1,0 +1,13 @@
+name = "Forbidden and Arcanus"
+filename = "forbidden_arcanus-1.21.1-2.5.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a63850cb2fae53554066f975e9d4b11d91fa8843"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6260683
+project-id = 309858
