@@ -7897,6 +7897,11 @@ hash = "f046474faa9a8116838f9eb40fa82bfa28c1248dd5296afaeca6f8e3b712e92b"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0b0b8ec73c689824125ed9c568deff51b0adca52aee27e49a114b04ff3f73abe"
+metafile = true
+
+[[files]]
 file = "mods/luminax.pw.toml"
 hash = "e93de078909c8385bc0ba3ab505b273ab41194f88cfd7e542195a124b392386f"
 metafile = true
@@ -8362,6 +8367,11 @@ hash = "b9550fd8f81037b4dcdf8e6268947c4ac03170cbcd985ee6c58fcc2c2870ca89"
 metafile = true
 
 [[files]]
+file = "mods/prometheus-exporter.pw.toml"
+hash = "4033f9d39c46d85f9ba0dbef78a11d809af83cc1046c362b05aa5d04ea35b6a5"
+metafile = true
+
+[[files]]
 file = "mods/proxy-compatible-forge.pw.toml"
 hash = "c8837e156c3b3132c5acaf6eeaf07198b242a2ac42419ea49546ee358c371695"
 metafile = true
@@ -8754,6 +8764,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "c00a6ef6f5e855b3144ad48f5df41d05150c5d11cecd558704f9b827b756300d"
+metafile = true
+
+[[files]]
+file = "mods/vanishmod.pw.toml"
+hash = "8a6150b942b90e0b641e761cabf808f3beccc44b9d693b60a4649d68f65aca40"
 metafile = true
 
 [[files]]
