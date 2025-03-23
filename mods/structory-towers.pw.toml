@@ -1,0 +1,11 @@
+name = "Structory Towers"
+filename = "Structory_Towers_1.21.x_v1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/Structory_Towers_1.21.x_v1.0.10.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "d1b2b22ee83241bfbe810e90adced8843683ed29a1079e8d87ae8423808a8cff"

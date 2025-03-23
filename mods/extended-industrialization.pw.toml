@@ -1,0 +1,11 @@
+name = "Extended Industrialization"
+filename = "extended-industrialization-1.14.6-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/extended-industrialization-1.14.6-1.21.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "e1b46f2501898311afff7bf009e4bbfb4a3130dbbfe5c7c9f89887b0991e4afc"

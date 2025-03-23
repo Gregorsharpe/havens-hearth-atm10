@@ -1,0 +1,11 @@
+name = "Server Core"
+filename = "servercore-neoforge-1.5.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/servercore-neoforge-1.5.5+1.21.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "528b60a3531819e6d5d4c98d8f858c39467b9234d2b5f20c31b48562073b67b0"

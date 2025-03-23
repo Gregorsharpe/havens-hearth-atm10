@@ -1,0 +1,11 @@
+name = "Tesseract API Neoforge"
+filename = "tesseract-api-neoforge-1.8.3-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/tesseract-api-neoforge-1.8.3-1.21.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "3fd338e26ba11ccadf2cd42397fa26a0c05628d518f8a57bb2cde403593aeb06"

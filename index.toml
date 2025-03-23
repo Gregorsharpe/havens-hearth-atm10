@@ -6797,14 +6797,6 @@ file = "kubejs/startup_scripts/hyperbox/hyperbox.js"
 hash = "e94fe9197c27a1281ee0eddd295a15752736a477d33e26b98144e668da02fcbb"
 
 [[files]]
-file = "mods/Structory_1.21.x_v1.3.9.jar"
-hash = "7b2eb4908faf97ba21c00dc3c7eb2f4580b31ff1245645947344f3a746c47110"
-
-[[files]]
-file = "mods/Structory_Towers_1.21.x_v1.0.10.jar"
-hash = "d1b2b22ee83241bfbe810e90adced8843683ed29a1079e8d87ae8423808a8cff"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -7080,8 +7072,9 @@ hash = "7882306ee3aa83624ad9dbdd942432d2232429d0c0335069b5287e85581b91cc"
 metafile = true
 
 [[files]]
-file = "mods/bwncr-neoforge-1.21.1-3.20.3.jar"
-hash = "2d506ec61d802feef2a03279f73a9528372af6ae5d0ec04ea8677cebaabfe6af"
+file = "mods/bwncr-neoforge.pw.toml"
+hash = "c763671b58b52527e4733ea98f8836f7b428c6eb7b713c0365048c12a3d8c4b8"
+metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
@@ -7102,10 +7095,6 @@ metafile = true
 file = "mods/cat-jammies.pw.toml"
 hash = "e2c769261640c924e8f6e24e02f931f5163206e75bfcdb5d5233a7ee8dd335f2"
 metafile = true
-
-[[files]]
-file = "mods/cc-tweaked-1.21.1-forge-1.115.1.jar"
-hash = "c650d7b25565d87b0ed4c9b1a8ac696237babde48064c61ee1f118f0c65fc6e4"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -7438,8 +7427,9 @@ hash = "2728d8eb6fced8220aaebafacfdef1ebca454657fbb215cc46d80442efd25dab"
 metafile = true
 
 [[files]]
-file = "mods/extended-industrialization-1.14.6-1.21.1.jar"
-hash = "e1b46f2501898311afff7bf009e4bbfb4a3130dbbfe5c7c9f89887b0991e4afc"
+file = "mods/extended-industrialization.pw.toml"
+hash = "8803111ae82f4049a8d9ed481273677ba6bc1a1e69e88e8d11e7a0074bc21ae9"
+metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
@@ -7677,8 +7667,9 @@ hash = "0a8fa44e80da54c80ec599789fdc4d9ce24a1045425920ad83a5ecf8e0eea2f3"
 metafile = true
 
 [[files]]
-file = "mods/imfast-NEOFORGE-1.0.2.jar"
-hash = "b435fc21651883ede376ada684d196a1c93aae8f240bcd4d551fb0d8384db7fa"
+file = "mods/imfast.pw.toml"
+hash = "de25c277f37a6e0aa3cf243eafd108420198a0908db472f997ca0f04de056e06"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -8146,8 +8137,9 @@ hash = "f978224776c543bba4eda79ab3352f00b9eafd72e24167474775e2c130527313"
 metafile = true
 
 [[files]]
-file = "mods/moreoverlays-1.23.2-mc1.21-neoforge.jar"
-hash = "9ca3beba61674e1bfa7f57f971375dba5cbac78efb2929759e4635a0d8bb27a3"
+file = "mods/moreoverlays.pw.toml"
+hash = "b549f112de6413caa780feb27751f3be1e32e10a8fd4fd97d7d18de7b6629d58"
+metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -8515,8 +8507,9 @@ hash = "261f47d30ce683ad9f8187fa611c141ecf7b5416729942ec43d0f9cc7bf629df"
 metafile = true
 
 [[files]]
-file = "mods/servercore-neoforge-1.5.5+1.21.1.jar"
-hash = "528b60a3531819e6d5d4c98d8f858c39467b9234d2b5f20c31b48562073b67b0"
+file = "mods/servercore-neoforge.pw.toml"
+hash = "bb54c4666f8dc4bd86c924f945df901fe3f40d2ab7f0df8b4e9cf73f875b619e"
+metafile = true
 
 [[files]]
 file = "mods/showcase-item.pw.toml"
@@ -8609,6 +8602,16 @@ hash = "711b91fe2fac178686dd95b1fae1e3c175707da8d59593b30354ce20cd25b793"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "418bd0c8d9f651632cc73816aced4eae423cad8538cbb4c69ef384a2b8aaddf1"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "81805dc6b47282dae79644f2253ca3efa4fa61cbd0f0d151274818e5f8d6eb33"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "68050929adeecda4ac08c8bc9428aba3e8f8058ff279edc6bab4ba46025fff64"
 metafile = true
@@ -8654,8 +8657,9 @@ hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
-file = "mods/tesseract-api-neoforge-1.8.3-1.21.1.jar"
-hash = "3fd338e26ba11ccadf2cd42397fa26a0c05628d518f8a57bb2cde403593aeb06"
+file = "mods/tesseract-api-neoforge.pw.toml"
+hash = "10af4e2cdcf22e60dd4854e443faec289264c4454a5f030019dd6e826d22d556"
+metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-forge.pw.toml"

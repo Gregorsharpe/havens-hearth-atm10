@@ -1,0 +1,11 @@
+name = "Im Fast"
+filename = "imfast-NEOFORGE-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/imfast-NEOFORGE-1.0.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "b435fc21651883ede376ada684d196a1c93aae8f240bcd4d551fb0d8384db7fa"
