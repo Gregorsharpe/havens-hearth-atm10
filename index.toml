@@ -7192,6 +7192,11 @@ hash = "6376e650ad6e514f6cc8d0a932a7b1ec5269a7a2baf9c119be085a4bdc086ac8"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "22d24077d94a512cb95bfe0394bd94733c46bfbe423e3cf907320f0f266bba5b"
+metafile = true
+
+[[files]]
 file = "mods/construction-sticks.pw.toml"
 hash = "1137541ecbf6ffe25f7d03d46d60f2c6400c855dee90507de9a2ea995295a471"
 metafile = true
@@ -7442,6 +7447,11 @@ hash = "59df3a71c27c991477b989e1c550ec3f630c47e304fbb5c3cc3e30e9b4cf8fec"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "f8890e55be67dddba9789c5913e934ae06c2f0c3af83c231916c0ef305a16ff5"
 metafile = true
@@ -7489,6 +7499,11 @@ metafile = true
 [[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "a555c417f3ce15e75206462a4a74d2720cb5a7224690cc178e55c5814be4b95a"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "30dbf012c0ef8da3cfa413f0768b44b5618ad873e0d020b2e096ab7eee6a3361"
 metafile = true
 
 [[files]]
@@ -8369,11 +8384,6 @@ metafile = true
 [[files]]
 file = "mods/prometheus-exporter.pw.toml"
 hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
-metafile = true
-
-[[files]]
-file = "mods/proxy-compatible-forge.pw.toml"
-hash = "c8837e156c3b3132c5acaf6eeaf07198b242a2ac42419ea49546ee358c371695"
 metafile = true
 
 [[files]]
