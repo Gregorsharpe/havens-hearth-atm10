@@ -1,13 +1,26 @@
 name = "CC: Tweaked"
-filename = "cc-tweaked-1.21.1-forge-1.113.1.jar"
+filename = "cc-tweaked-1.21.1-forge-1.115.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cc857f01404a0b57bb1246e79dea9f66b96bfa76"
-mode = "metadata:curseforge"
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/cc-tweaked-1.21.1-forge-1.115.1.jar"
 
-[update]
-[update.curseforge]
-file-id = 5714512
-project-id = 282001
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "c650d7b25565d87b0ed4c9b1a8ac696237babde48064c61ee1f118f0c65fc6e4"
+
+
+# name = "CC: Tweaked"
+# filename = "cc-tweaked-1.21.1-forge-1.113.1.jar"
+# side = "both"
+
+# [download]
+# hash-format = "sha1"
+# hash = "cc857f01404a0b57bb1246e79dea9f66b96bfa76"
+# mode = "metadata:curseforge"
+
+# [update]
+# [update.curseforge]
+# file-id = 5714512
+# project-id = 282001
