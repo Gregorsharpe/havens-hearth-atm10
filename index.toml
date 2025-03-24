@@ -7122,6 +7122,16 @@ hash = "390d11465173ed1750555d666bc2a7ce095d8a6ae022ae03babfb50734af8be7"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b5bc0870d024f401879d602545658d1d513379bb9d0406cf6166cd53402eeaaf"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "afbd35c77ccf9a66bbe5a857b205db3cd104eda3bb9f2d74911e3f9f1589ae8f"
+metafile = true
+
+[[files]]
 file = "mods/clean-swing-through-grass.pw.toml"
 hash = "69968d3337983555531273604549745ad124bc95e19363f69cb4d1e41f47a980"
 metafile = true
