@@ -933,6 +933,30 @@ file = "config/packmenu.cfg"
 hash = "09c917c550f6da15154d5342e1058dbb621bef4eaeb2215f38d3aa627b40b270"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/afk display v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "11ef89c0bde03b62b65254cd7c0aa2a720bf37ff540e37f24d3ffb980c8b88ae"
+
+[[files]]
+file = "config/paxi/datapacks/more mob heads v2.15.0 (MC 1.21-1.21.4).zip"
+hash = "127298ae43c007debd92f375d7444e8cd1b74fec94b6c48ddc3192fcc68e0f9f"
+
+[[files]]
+file = "config/paxi/datapacks/player head drops v1.1.10 (MC 1.21-1.21.4).zip"
+hash = "5d957a256c7a96c9be74708b2da1065ad937395953047451e3c217bc8454cf88"
+
+[[files]]
+file = "config/paxi/datapacks/track raw statistics v1.7.6 (MC 1.21-1.21.4).zip"
+hash = "c5b1d7c722238be5ca3ac686ad3e6b8cf6593b35c2431b81d73ff5eb4c259dc1"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
 file = "config/pneumaticcraft-common.toml"
 hash = "a619019a9583d3167483ce166a0ecaf879a1db47e343cb611c2d0ecab87de899"
 

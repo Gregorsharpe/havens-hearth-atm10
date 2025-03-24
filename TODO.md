@@ -1,6 +1,12 @@
-- Datapack injector mod
-  - Datapacks; player head drops, other fan favs?
+- DoggyTalents?
+- Configure squaremap
+- Reconfigure prometheus ingest to point to mod (http://192.168.0.160:19565/metrics)
+- Test loki ingest
 
 - Double check luckperms setup for new server commands.
-- DoggyTalents?
-- Pregen mod and world border.
+- Wipe world
+- Find spawn, set it, build it.
+- Set world border, run pregen
+- Test maintenance plugin.
+- Build prism pack starter, make sure to include server dat and sane defaults.
+- Upload starter, add instructions to discord server, discuss launch.
