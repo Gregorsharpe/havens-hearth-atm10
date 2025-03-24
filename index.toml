@@ -8302,6 +8302,11 @@ hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
 metafile = true
 
 [[files]]
+file = "mods/paxi-neoforge.pw.toml"
+hash = "33aab523b1f69c786c7ad09121f02dd0d949f9e7c8c927f7d9969abc333ac50e"
+metafile = true
+
+[[files]]
 file = "mods/pipez.pw.toml"
 hash = "1bb1904689ab102397544b9234eaaad105b60b865e571139d3b3c971dc03cc2b"
 metafile = true
