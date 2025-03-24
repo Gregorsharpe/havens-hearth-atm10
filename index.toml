@@ -8372,6 +8372,11 @@ hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
 metafile = true
 
 [[files]]
+file = "mods/proxy-compatible-forge.pw.toml"
+hash = "c8837e156c3b3132c5acaf6eeaf07198b242a2ac42419ea49546ee358c371695"
+metafile = true
+
+[[files]]
 file = "mods/pylons.pw.toml"
 hash = "c2e405e6ca07aa0e181fe0e198a29c6d181a861afba299c776583ebdbda84139"
 metafile = true
