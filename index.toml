@@ -7061,6 +7061,11 @@ hash = "1d435f1668611f353a386b365cb814fec042758045bf4118320586ebbd881570"
 metafile = true
 
 [[files]]
+file = "mods/better-dogs-x-doggy-talents-next.pw.toml"
+hash = "b3cb487c5be7a54ae8e9cfb716507e43262c46565f087c561585e0e42a0e9c8f"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft-legacy.pw.toml"
 hash = "b5e98ce8f86ba5f209e408de781d6926bb079dd48f4303ebb3f0d16848eaed66"
 metafile = true
@@ -7356,8 +7361,18 @@ hash = "1a007e5c11b72ac114186d73344635f6c9d43824962b5070cb83ae90a181114b"
 metafile = true
 
 [[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "3d2d9a1d409f48ee24ebc4a9f9c88fd7fd6ced2f46fd98a98087897ddc237f73"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "bb37dbf07ce4afc403b5ac9206b980a2da85ea4021f70ef9af1a97692816eb9b"
+metafile = true
+
+[[files]]
+file = "mods/dtn-community-skin-expansion.pw.toml"
+hash = "b15ea3d685b40fe81f6c4fb7deb83c089fe73ac54b70d673417d258bd6b5aeef"
 metafile = true
 
 [[files]]
