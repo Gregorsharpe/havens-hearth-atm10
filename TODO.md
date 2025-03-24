@@ -1,4 +1,3 @@
-- DoggyTalents?
 - Configure squaremap
 - Reconfigure prometheus ingest to point to mod (http://192.168.0.160:19565/metrics)
 - Test loki ingest
