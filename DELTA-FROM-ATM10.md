@@ -8,3 +8,4 @@
 + Chunky and ChunkyBorder
 + Datapacks for Player and Mob head drops, greying out AFK names and bonus stats.
 + DoggyTalentsNext & two extra dog appearance mods. 
++ Add 3dSkinLayers and Camera Mod.
