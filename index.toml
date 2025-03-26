@@ -6821,6 +6821,11 @@ file = "kubejs/startup_scripts/hyperbox/hyperbox.js"
 hash = "e94fe9197c27a1281ee0eddd295a15752736a477d33e26b98144e668da02fcbb"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "0408248d1f51d14a170353adafcd7e018a5314e473b71884a4af0be89a62af4a"
+metafile = true
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "0c31f109b6c4dca94a153fbdd827bbd5f96149fd5c7863ba0ba41fcab801afe0"
 metafile = true
@@ -7113,6 +7118,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "03891e2139991fd25a654a5e880219d2ce2971633e875de13be4b67603d97331"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "3d484128d6f3c09a7069f3b2fa7f38f882fd2ec8b45a6d58d599e7d77ddae9c5"
 metafile = true
 
 [[files]]
@@ -7442,7 +7452,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "2134b3d912f7681ed4e3842ef1f83211af26a3373157b8b9af3783b16ab791a0"
+hash = "60ddae26b60d838aa99b75ad5b590ed8c61c5f23130c0198b350f0c414ea0be1"
 metafile = true
 
 [[files]]

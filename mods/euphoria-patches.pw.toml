@@ -2,12 +2,11 @@ name = "Euphoria Patches"
 filename = "EuphoriaPatcher-1.5.2-r5.4-neoforge.jar"
 side = "both"
 
-[download]
-hash-format = "sha1"
-hash = "ba3e86caa1205e058ebf0a6e6d00d031bcd90337"
-mode = "metadata:curseforge"
 
-[update]
-[update.curseforge]
-file-id = 6137784
-project-id = 915902
+[download]
+url = "https://raw.githubusercontent.com/Gregorsharpe/havens-hearth-atm10/refs/heads/main/annoying-mods/EuphoriaPatcher-1.5.2-r5.4-neoforge.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "df4083487093536b74a458967101ffe26c1cc7c2d73041f2fcd2857c2750a71e"
