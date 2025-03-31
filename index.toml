@@ -197,6 +197,10 @@ file = "config/framedblocks-client.toml"
 hash = "7439b86787d337be666cece49346c0a6d1f0a6552166567462f010fd50dfbed1"
 
 [[files]]
+file = "config/ftbessentials.snbt"
+hash = "4a51fe2ab52abded823b26ebd74b39c4178355c44f6e1057c45d4f08bcd9b70e"
+
+[[files]]
 file = "config/ftbquests/quests/README.md"
 hash = "d0e63efe1171561178387eea0c21960708ea4dd63e20d90c77b1c9697191b63f"
 
@@ -1158,7 +1162,7 @@ hash = "60825688dd66720c88f3298dbc84f52fa877a988d368c8fca2a9b6ee513bb2d4"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "9143649c23ff2f0d1641e2ee0fda94c6a0726a138e2483fe2449624e52c740be"
+hash = "ea366be38ed7a793a634b0dc23b65ba848624bc4e0c5283b7f9c557faf5476c9"
 
 [[files]]
 file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
@@ -8683,11 +8687,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "5f07bd5b39d7c429e4e2378aceb1467f7d9b4a64aaa2fbe7e1b0fca1a993e21a"
 metafile = true
 
 [[files]]

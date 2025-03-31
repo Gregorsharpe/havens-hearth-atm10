@@ -1,3 +1,3 @@
 - Double check luckperms setup for new server commands.
-- Build prism pack starter, make sure to include server dat and sane defaults.
-- Upload starter, add instructions to discord server, discuss launch.
+- FTB Essential command cooldown configuration.
+- Waystone XP cost configuration.
