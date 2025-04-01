@@ -1,0 +1,13 @@
+name = "April Fools"
+filename = "aprilfools-1.21.1-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32998176bebd93c32ff407b78007b39f9b153654"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6186708
+project-id = 982952
