@@ -8255,6 +8255,11 @@ hash = "a239dad7b1e3d75160fd0bc167c294dc96781b5d715ea658e5d954e12316d5c6"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "a9548e2b20cb49231c5af5b21716ae90b600aff54bca416e47cb8fa293546036"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
