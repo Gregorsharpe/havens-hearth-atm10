@@ -6985,6 +6985,11 @@ hash = "6809916304466ff7ae4b2efdbdea3c984c06a8d42d24047a4dde9daa87dff82a"
 metafile = true
 
 [[files]]
+file = "mods/april-fools.pw.toml"
+hash = "eb0d89fa27e765e13e6c54289dc1d1f337bdf08f656606e7e109245352074856"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "3da842d1697d728d153297a2dfc30620afdbd63e5c932aef623ab3fd57573bb3"
 metafile = true
@@ -7212,6 +7217,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "a9bcce8617c41c5881610337a494d6c116fbf32b120f3577cf5fff5394c2b870"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "029247813a867697f5ceea0935839d557fd10d839cc98b5c8df8ed42361bcace"
 metafile = true
 
 [[files]]
