@@ -8220,6 +8220,11 @@ hash = "b549f112de6413caa780feb27751f3be1e32e10a8fd4fd97d7d18de7b6629d58"
 metafile = true
 
 [[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "a683bf43c525538d18a6be23cb8a263a09c4933ccadee721dc354d0de567c93b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
