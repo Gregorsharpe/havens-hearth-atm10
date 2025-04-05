@@ -865,6 +865,10 @@ file = "config/modular_machinery_reborn_mekanism-common.toml"
 hash = "a1cd6345b6ed1a5ba965d63c6973251b258887765bbed9849af4cbbcc68b9031"
 
 [[files]]
+file = "config/morphtool-common.toml"
+hash = "b858168de46b1851741f8812cefa3711b9cf5eb7569bbd057dfba8cedab0186b"
+
+[[files]]
 file = "config/mysticalagriculture-common.toml"
 hash = "be5d363d604a0f1851268ffbb2330815212bee36cbc8294a3e4a131f693a08d6"
 
