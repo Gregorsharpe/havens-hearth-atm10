@@ -866,7 +866,7 @@ hash = "a1cd6345b6ed1a5ba965d63c6973251b258887765bbed9849af4cbbcc68b9031"
 
 [[files]]
 file = "config/morphtool-common.toml"
-hash = "875f069c368f259edeab5c32883938c74d3d839a31631cd8f8d967ba74ddfda2"
+hash = "76abc6122412f394fd865bda9f2675f48ebd9e1469ae0cf9a41391aa27594270"
 
 [[files]]
 file = "config/mysticalagriculture-common.toml"
